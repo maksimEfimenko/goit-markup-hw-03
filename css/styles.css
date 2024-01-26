@@ -51,6 +51,7 @@ body{
 /*----Section 1----*/
 .section-one{
     background-color:#2e2f42;
+    padding: 188px 0;
 }
 .section-one-h{
     font-size: 56px;
