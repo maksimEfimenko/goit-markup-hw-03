@@ -53,6 +53,7 @@ body{
     background-color:#2e2f42;
     padding: 188px 0;
     max-width: 496px;
+    max-width: 496px;
 }
 .section-one-h{
     font-size: 56px;
@@ -69,6 +70,12 @@ body{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 .section-one-button:hover,
 .section-one-button:focus{
