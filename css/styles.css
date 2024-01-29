@@ -5,6 +5,21 @@ body{
     background-color: #FFFFFF;
 }
 /*--Header--*/
+.container{
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.header{
+    border-bottom: 1px solid #e7e9fc;
+}
+.header-div{
+    display: flex; 
+}
+.header-nav{
+    display: flex;
+    align-items: center;
+}
 .header-logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -187,7 +202,7 @@ body{
     row-gap: 48px;
 }
 .section-four-li{
-    width: calc((100% - 48px) / 6);
+    width: calc((100% - 48px) / 3);
 }
 .section-four-h{
     font-size: 20px;
