@@ -61,6 +61,7 @@ body{
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    max-width: 496px;
 }
 .section-one-button{
     background-color: #4D5AE5;
@@ -83,6 +84,9 @@ body{
     cursor: pointer;
 }
 /*----Section 2----*/
+.section-two{  
+    padding: 120px 0;
+}
 .section-two-h{
     font-weight: 500;
     font-size: 20px;
