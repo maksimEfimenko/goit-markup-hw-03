@@ -52,6 +52,7 @@ body{
 .section-one{
     background-color:#2e2f42;
     padding: 188px 0;
+    max-width: 496px;
 }
 .section-one-h{
     font-size: 56px;
