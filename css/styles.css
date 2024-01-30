@@ -45,10 +45,10 @@ img{
     font-size: 16px ;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding: 24px 0;
 }
 .header-menu-link{
     color:#2e2f42;
+    padding: 24px 0;
 }
 .header-menu-link:hover,
 .header-menu-link:focus{
@@ -56,8 +56,6 @@ img{
 }
 .address{ 
     font-style: normal;
-    display: flex;
-    gap: 40px;
 }
 .header-emeil{
     font-size: 16px;
@@ -71,6 +69,10 @@ img{
 .header-a-emeil:hover,
 .header-a-emeil:focus{
     color: #404bbf;
+}
+.header-address-ul{
+    display: flex;
+    gap: 40px;
 }
 /*--Main--*/
 /*----Section 1----*/
