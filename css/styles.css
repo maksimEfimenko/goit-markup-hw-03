@@ -31,16 +31,21 @@ img{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:#4d5ae5;
+    margin-right: 76px
 }
 .logo-back{
     color: #2e2f42;
+}
+.header-nav-two{
+    display: flex;
+    gap: 40px;
 }
 .header-menu-item{
     font-weight: 500;
     font-size: 16px ;
     line-height: 1.5;
     letter-spacing: 0.02em;
-
+    padding: 24px 0;
 }
 .header-menu-link{
     color:#2e2f42;
@@ -51,6 +56,8 @@ img{
 }
 .address{ 
     font-style: normal;
+    display: flex;
+    gap: 40px;
 }
 .header-emeil{
     font-size: 16px;
