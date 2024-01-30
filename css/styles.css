@@ -79,8 +79,6 @@ img{
 .section-one{
     background-color:#2e2f42;
     padding: 188px 0;
-    max-width: 496px;
-    max-width: 496px;
 }
 .section-one-h{
     font-size: 56px;
@@ -131,7 +129,7 @@ img{
     gap: 24px; 
 }
 .section-two-li{
-    flex-basis: calc((100% - 72px) / 4);
+    
 }
 .section-two-h{
     font-weight: 500;
