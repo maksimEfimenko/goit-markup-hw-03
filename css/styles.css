@@ -146,7 +146,7 @@ img{
     gap: 24px; 
 }
 .section-two-li{
-    
+    flex-basis: calc((100% - 3 * 24px) / 4);
 }
 .section-two-h{
     font-weight: 500;
